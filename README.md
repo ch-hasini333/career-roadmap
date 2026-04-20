@@ -21,7 +21,7 @@ Fast & Lightweight
 Self-Learning Focused
 
 ## 🔑 Core Topics Covered
-`Engineering` • `ChatGPT & Language Flexibility` • `YouTube Tips` • `Topic Framework` • `Career Roadmap` • `Pipeline` • `Frameworks` • `DSA for High-Paying Jobs` • `System Design` • `Non-Tech Roles` • `LinkedIn & Naukri` • `Resume & ATS` • `Projects & SDLC` • `Git & GitHub` • `LeetCode & HackerRank` • `Civil Services` • `Govt Jobs for Engineers` • `Curriculum Guide` • `IEEE` • `Docker` • `Freelancing` • `Telegram` • `Open Source`
+`Engineering` • `ChatGPT & Language Flexibility` • `YouTube Tips` • `Topic Framework` • `Career Roadmap` • `Pipeline` • `Frameworks` • `DSA for High-Paying Jobs` • `System Design` • `Non-Tech Roles` • `LinkedIn & Naukri` • `Resume & ATS` • `Projects & SDLC` • `Local and Global host` • `Git & GitHub` • `LeetCode & HackerRank` • `Civil Services` • `Govt Jobs for Engineers` • `Curriculum Guide` • `IEEE` • `Docker` • `Freelancing` • `Telegram` • `Open Source`  
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML, CSS, JavaScript
